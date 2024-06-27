@@ -1,0 +1,145 @@
+Loading cs402-mpi
+  Loading requirement: gcc9
+Number of threads: 8
++++++++++++++++++++++
+  Running deqn v0.1  
+- input file: square
+- dt_max: 0.2
+- initial_dt: 0.04
+- start_time: 0
+- end_time: 0.8
+- vis_frequency: 1
+- summary_frequency: 1
++++++++++++++++++++++
+
++   Boundary loops time taken: 7.3347e-05
++ step: 1, dt:   0.04
++   Diffuse loop time taken: 9.1257e-05
++   Reset loop time taken: 6.896e-06
++   Boundary loops time taken: 1.1684e-05
++   Temperature loop time taken: 5.7629e-05
++   current total temperature: 9000
++ step: 2, dt:   0.04
++   Diffuse loop time taken: 1.8503e-05
++   Reset loop time taken: 7.024e-06
++   Boundary loops time taken: 1.2479e-05
++   Temperature loop time taken: 6.453e-05
++   current total temperature: 9000
++ step: 3, dt:   0.04
++   Diffuse loop time taken: 1.7682e-05
++   Reset loop time taken: 6.827e-06
++   Boundary loops time taken: 1.165e-05
++   Temperature loop time taken: 6.6006e-05
++   current total temperature: 9000
++ step: 4, dt:   0.04
++   Diffuse loop time taken: 9.77e-06
++   Reset loop time taken: 8.923e-06
++   Boundary loops time taken: 1.3393e-05
++   Temperature loop time taken: 7.2213e-05
++   current total temperature: 9000
++ step: 5, dt:   0.04
++   Diffuse loop time taken: 1.8213e-05
++   Reset loop time taken: 6.576e-06
++   Boundary loops time taken: 1.1473e-05
++   Temperature loop time taken: 6.1364e-05
++   current total temperature: 9000
++ step: 6, dt:   0.04
++   Diffuse loop time taken: 6.96e-06
++   Reset loop time taken: 6.933e-06
++   Boundary loops time taken: 1.1879e-05
++   Temperature loop time taken: 7.3705e-05
++   current total temperature: 9000
++ step: 7, dt:   0.04
++   Diffuse loop time taken: 1.0317e-05
++   Reset loop time taken: 8.343e-06
++   Boundary loops time taken: 1.567e-05
++   Temperature loop time taken: 6.9259e-05
++   current total temperature: 9000
++ step: 8, dt:   0.04
++   Diffuse loop time taken: 9.82e-06
++   Reset loop time taken: 8.663e-06
++   Boundary loops time taken: 1.649e-05
++   Temperature loop time taken: 6.6499e-05
++   current total temperature: 9000
++ step: 9, dt:   0.04
++   Diffuse loop time taken: 1.91e-05
++   Reset loop time taken: 6.99e-06
++   Boundary loops time taken: 1.1438e-05
++   Temperature loop time taken: 6.5557e-05
++   current total temperature: 9000
++ step: 10, dt:   0.04
++   Diffuse loop time taken: 2.0414e-05
++   Reset loop time taken: 7.535e-06
++   Boundary loops time taken: 1.3093e-05
++   Temperature loop time taken: 6.9167e-05
++   current total temperature: 9000
++ step: 10, dt:   0.04
++   Diffuse loop time taken: 1.8476e-05
++   Reset loop time taken: 6.955e-06
++   Boundary loops time taken: 1.1944e-05
++   Temperature loop time taken: 7.0563e-05
++   current total temperature: 9000
++ step: 11, dt:   0.04
++   Diffuse loop time taken: 1.8426e-05
++   Reset loop time taken: 7.348e-06
++   Boundary loops time taken: 1.2206e-05
++   Temperature loop time taken: 6.9664e-05
++   current total temperature: 9000
++ step: 12, dt:   0.04
++   Diffuse loop time taken: 9.873e-06
++   Reset loop time taken: 9.037e-06
++   Boundary loops time taken: 1.2157e-05
++   Temperature loop time taken: 5.5819e-05
++   current total temperature: 9000
++ step: 13, dt:   0.04
++   Diffuse loop time taken: 1.8698e-05
++   Reset loop time taken: 7.123e-06
++   Boundary loops time taken: 1.2977e-05
++   Temperature loop time taken: 6.4294e-05
++   current total temperature: 9000
++ step: 14, dt:   0.04
++   Diffuse loop time taken: 1.8214e-05
++   Reset loop time taken: 7.629e-06
++   Boundary loops time taken: 1.2868e-05
++   Temperature loop time taken: 7.0618e-05
++   current total temperature: 9000
++ step: 16, dt:   0.04
++   Diffuse loop time taken: 1.8014e-05
++   Reset loop time taken: 6.338e-06
++   Boundary loops time taken: 1.2645e-05
++   Temperature loop time taken: 6.6793e-05
++   current total temperature: 9000
++ step: 17, dt:   0.04
++   Diffuse loop time taken: 1.025e-05
++   Reset loop time taken: 8.36e-06
++   Boundary loops time taken: 1.4736e-05
++   Temperature loop time taken: 6.738e-05
++   current total temperature: 9000
++ step: 18, dt:   0.04
++   Diffuse loop time taken: 1.0084e-05
++   Reset loop time taken: 8.957e-06
++   Boundary loops time taken: 1.247e-05
++   Temperature loop time taken: 6.3918e-05
++   current total temperature: 9000
++ step: 19, dt:   0.04
++   Diffuse loop time taken: 1.8501e-05
++   Reset loop time taken: 6.638e-06
++   Boundary loops time taken: 1.2223e-05
++   Temperature loop time taken: 7.0567e-05
++   current total temperature: 9000
++ step: 20, dt:   0.04
++   Diffuse loop time taken: e-05
++   Reset loop time taken: 6.708e-06
++   Boundary loops time taken: 1.2189e-05
++   Temperature loop time taken: 7.1592e-05
++   current total temperature: 9000
+
++++++++++++++++++++++
+   Run completete.   
++++++++++++++++++++++
+        Total time taken: 0.205304
+        Diffuse looptime taken: 0.00043242
+        Reset looptime taken: 0.000195668
+        Boundary looptime taken: 0.000379173
+        Temperature looptime taken: 0.00151557
+(Main) Runtime: 0.223464 seconds

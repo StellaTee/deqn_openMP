@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.C": "cpp",
+        "Driver.C": "cpp",
+        "Diffusion.C": "cpp",
+        "ExplicitScheme.C": "cpp",
+        "Mesh.C": "cpp",
+        "InputFile.C": "cpp"
+    }
+}
